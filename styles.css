@@ -226,7 +226,7 @@ nav {
   display: flex;
   flex-direction: column;
   color: var(--light-blurple);
-  height: 100%;
+  min-height: 100%;
   width: 50%;
   background-color: var(--dark-blurple);
   padding: 40px;
